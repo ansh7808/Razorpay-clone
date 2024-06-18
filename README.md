@@ -10,4 +10,4 @@ To run the website locally, you can follow these steps :
 Clone the repository to your local machine: Open the index.html file in your web browser Modify the HTML and CSS files as needed to customize the website
 
 Credits
-The website design and content is based on the official Razorpay website (https://razorpay.com/), with some modifications to fit the scope of this project. The Tailwind CSS framework is used for styling and layout, with some custom CSS added f
+The website design and content is based on the official Razorpay website (https://razorpay.com/), with some modifications to fit the scope of this project. The Tailwind CSS framework is used for styling and layout, with some custom CSS added for additional features.
